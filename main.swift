@@ -30,7 +30,7 @@ struct Person {
   // Initializer is Not Mandatory
 
 func displayInfo(){
-    print("My name is \(name) , I am /(age) year old & My Mobile Number is \(mobNumber)")
+    print("My name is \(name) , I am \(age) year old & My Mobile Number is \(mobNumber)")
   }
   
 }
